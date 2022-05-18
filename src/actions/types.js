@@ -1,0 +1,1 @@
+export const SWAP_BOX = 'SWAP_BOX';
